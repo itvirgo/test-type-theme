@@ -1,14 +1,19 @@
-# Type Theme
+# Type Theme Test
 
-![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
-
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+This repo is for testing jekyll theme 'type-theme'
 
 ## Get Started
 
-[Demo](https://rohanchandra.github.io/type-theme/)
+1. Clone repository
+2. `cd` to the above directory for the repo
+3. Run the following command
 
-[Using Type](https://rohanchandra.github.io/project/type/)
+	```
+	$ bundle install
+	```
 
-## License
-The MIT License (MIT)
+4. If all went well, run jekyll service and check the result on 127.0.0.1:4000
+
+	```
+	$ bundle exec jekyll serve
+	```
